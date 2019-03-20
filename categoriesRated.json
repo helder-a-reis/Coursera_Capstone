@@ -1,0 +1,1814 @@
+[
+  {
+    "Category": "Art Gallery",
+    "Rating": 2
+  },
+  {
+    "Category": "Bowling Alley",
+    "Rating": 1
+  },
+  {
+    "Category": "Casino",
+    "Rating": 1
+  },
+  {
+    "Category": "Circus",
+    "Rating": 1
+  },
+  {
+    "Category": "Comedy Club",
+    "Rating": 2
+  },
+  {
+    "Category": "Concert Hall",
+    "Rating": 2
+  },
+  {
+    "Category": "Country Dance Club",
+    "Rating": 1
+  },
+  {
+    "Category": "Disc Golf",
+    "Rating": 1
+  },
+  {
+    "Category": "Exhibit",
+    "Rating": 2
+  },
+  {
+    "Category": "General Entertainment",
+    "Rating": 2
+  },
+  {
+    "Category": "Go Kart Track",
+    "Rating": 1
+  },
+  {
+    "Category": "Historic Site",
+    "Rating": 1
+  },
+  {
+    "Category": "Karaoke Box",
+    "Rating": 1
+  },
+  {
+    "Category": "Laser Tag",
+    "Rating": 1
+  },
+  {
+    "Category": "Memorial Site",
+    "Rating": 1
+  },
+  {
+    "Category": "Mini Golf",
+    "Rating": 1
+  },
+  {
+    "Category": "Movie Theater",
+    "Rating": 2
+  },
+  {
+    "Category": "Museum",
+    "Rating": 2
+  },
+  {
+    "Category": "Music Venue",
+    "Rating": 2
+  },
+  {
+    "Category": "Pachinko Parlor",
+    "Rating": 1
+  },
+  {
+    "Category": "Performing Arts Venue",
+    "Rating": 2
+  },
+  {
+    "Category": "Pool Hall",
+    "Rating": 1
+  },
+  {
+    "Category": "Public Art",
+    "Rating": 2
+  },
+  {
+    "Category": "Racecourse",
+    "Rating": 1
+  },
+  {
+    "Category": "Racetrack",
+    "Rating": 1
+  },
+  {
+    "Category": "Roller Rink",
+    "Rating": 1
+  },
+  {
+    "Category": "Salsa Club",
+    "Rating": 1
+  },
+  {
+    "Category": "Samba School",
+    "Rating": 1
+  },
+  {
+    "Category": "Stadium",
+    "Rating": 1
+  },
+  {
+    "Category": "Theme Park",
+    "Rating": 2
+  },
+  {
+    "Category": "Tour Provider",
+    "Rating": 2
+  },
+  {
+    "Category": "Water Park",
+    "Rating": 1
+  },
+  {
+    "Category": "Zoo",
+    "Rating": 1
+  },
+  {
+    "Category": "College Academic Building",
+    "Rating": 1
+  },
+  {
+    "Category": "College Administrative Building",
+    "Rating": 1
+  },
+  {
+    "Category": "College Auditorium",
+    "Rating": 1
+  },
+  {
+    "Category": "College Bookstore",
+    "Rating": 1
+  },
+  {
+    "Category": "College Cafeteria",
+    "Rating": 1
+  },
+  {
+    "Category": "College Classroom",
+    "Rating": 1
+  },
+  {
+    "Category": "College Gym",
+    "Rating": 1
+  },
+  {
+    "Category": "College Lab",
+    "Rating": 1
+  },
+  {
+    "Category": "College Library",
+    "Rating": 1
+  },
+  {
+    "Category": "College Quad",
+    "Rating": 1
+  },
+  {
+    "Category": "College Rec Center",
+    "Rating": 1
+  },
+  {
+    "Category": "College Residence Hall",
+    "Rating": 1
+  },
+  {
+    "Category": "College Stadium",
+    "Rating": 1
+  },
+  {
+    "Category": "College Theater",
+    "Rating": 1
+  },
+  {
+    "Category": "Community College",
+    "Rating": 1
+  },
+  {
+    "Category": "Fraternity House",
+    "Rating": 1
+  },
+  {
+    "Category": "General College & University",
+    "Rating": 1
+  },
+  {
+    "Category": "Law School",
+    "Rating": 1
+  },
+  {
+    "Category": "Medical School",
+    "Rating": 1
+  },
+  {
+    "Category": "Sorority House",
+    "Rating": 1
+  },
+  {
+    "Category": "Student Center",
+    "Rating": 2
+  },
+  {
+    "Category": "Trade School",
+    "Rating": 2
+  },
+  {
+    "Category": "University",
+    "Rating": 2
+  },
+  {
+    "Category": "Christmas Market",
+    "Rating": 2
+  },
+  {
+    "Category": "Conference",
+    "Rating": 2
+  },
+  {
+    "Category": "Convention",
+    "Rating": 2
+  },
+  {
+    "Category": "Festival",
+    "Rating": 2
+  },
+  {
+    "Category": "Line / Queue",
+    "Rating": 2
+  },
+  {
+    "Category": "Music Festival",
+    "Rating": 2
+  },
+  {
+    "Category": "Other Event",
+    "Rating": 2
+  },
+  {
+    "Category": "Parade",
+    "Rating": 1
+  },
+  {
+    "Category": "Sporting Event",
+    "Rating": 1
+  },
+  {
+    "Category": "Stoop Sale",
+    "Rating": 1
+  },
+  {
+    "Category": "Street Fair",
+    "Rating": 2
+  },
+  {
+    "Category": "Trade Fair",
+    "Rating": 1
+  },
+  {
+    "Category": "Afghan Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "African Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "American Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Asian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Australian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Austrian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "BBQ Joint",
+    "Rating": 1
+  },
+  {
+    "Category": "Bagel Shop",
+    "Rating": 3
+  },
+  {
+    "Category": "Bakery",
+    "Rating": 2
+  },
+  {
+    "Category": "Belgian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Bistro",
+    "Rating": 3
+  },
+  {
+    "Category": "Breakfast Spot",
+    "Rating": 3
+  },
+  {
+    "Category": "Bubble Tea Shop",
+    "Rating": 3
+  },
+  {
+    "Category": "Buffet",
+    "Rating": 2
+  },
+  {
+    "Category": "Burger Joint",
+    "Rating": 2
+  },
+  {
+    "Category": "Cafeteria",
+    "Rating": 2
+  },
+  {
+    "Category": "Café",
+    "Rating": 2
+  },
+  {
+    "Category": "Cajun / Creole Restaurant",
+    "Rating": 1
+  },
+  {
+    "Category": "Caribbean Restaurant",
+    "Rating": 1
+  },
+  {
+    "Category": "Caucasian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Coffee Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Comfort Food Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Creperie",
+    "Rating": 3
+  },
+  {
+    "Category": "Czech Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Deli / Bodega",
+    "Rating": 2
+  },
+  {
+    "Category": "Dessert Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Diner",
+    "Rating": 2
+  },
+  {
+    "Category": "Donut Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Dumpling Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Dutch Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Eastern European Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "English Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Falafel Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Fast Food Restaurant",
+    "Rating": 1
+  },
+  {
+    "Category": "Fish & Chips Shop",
+    "Rating": 1
+  },
+  {
+    "Category": "Fondue Restaurant",
+    "Rating": 1
+  },
+  {
+    "Category": "Food Court",
+    "Rating": 1
+  },
+  {
+    "Category": "Food Stand",
+    "Rating": 2
+  },
+  {
+    "Category": "Food Truck",
+    "Rating": 3
+  },
+  {
+    "Category": "French Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Fried Chicken Joint",
+    "Rating": 1
+  },
+  {
+    "Category": "Friterie",
+    "Rating": 1
+  },
+  {
+    "Category": "Gastropub",
+    "Rating": 3
+  },
+  {
+    "Category": "German Restaurant",
+    "Rating": 1
+  },
+  {
+    "Category": "Gluten-free Restaurant",
+    "Rating": 3
+  },
+  {
+    "Category": "Greek Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Halal Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Hawaiian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Hot Dog Joint",
+    "Rating": 2
+  },
+  {
+    "Category": "Hungarian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Indian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Irish Pub",
+    "Rating": 1
+  },
+  {
+    "Category": "Italian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Jewish Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Juice Bar",
+    "Rating": 3
+  },
+  {
+    "Category": "Kebab Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Latin American Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Mac & Cheese Joint",
+    "Rating": 1
+  },
+  {
+    "Category": "Mediterranean Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Mexican Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Middle Eastern Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Modern European Restaurant",
+    "Rating": 3
+  },
+  {
+    "Category": "Molecular Gastronomy Restaurant",
+    "Rating": 3
+  },
+  {
+    "Category": "Pakistani Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Pet Café",
+    "Rating": 3
+  },
+  {
+    "Category": "Pizza Place",
+    "Rating": 2
+  },
+  {
+    "Category": "Polish Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Portuguese Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Poutine Place",
+    "Rating": 2
+  },
+  {
+    "Category": "Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Russian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Salad Place",
+    "Rating": 3
+  },
+  {
+    "Category": "Sandwich Place",
+    "Rating": 2
+  },
+  {
+    "Category": "Scandinavian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Scottish Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Seafood Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Slovak Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Snack Place",
+    "Rating": 2
+  },
+  {
+    "Category": "Soup Place",
+    "Rating": 2
+  },
+  {
+    "Category": "Southern / Soul Food Restaurant",
+    "Rating": 1
+  },
+  {
+    "Category": "Spanish Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Sri Lankan Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Steakhouse",
+    "Rating": 2
+  },
+  {
+    "Category": "Swiss Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Tea Room",
+    "Rating": 2
+  },
+  {
+    "Category": "Theme Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Truck Stop",
+    "Rating": 1
+  },
+  {
+    "Category": "Turkish Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Ukrainian Restaurant",
+    "Rating": 2
+  },
+  {
+    "Category": "Vegetarian / Vegan Restaurant",
+    "Rating": 3
+  },
+  {
+    "Category": "Wings Joint",
+    "Rating": 1
+  },
+  {
+    "Category": "Bar",
+    "Rating": 2
+  },
+  {
+    "Category": "Brewery",
+    "Rating": 2
+  },
+  {
+    "Category": "Lounge",
+    "Rating": 2
+  },
+  {
+    "Category": "Night Market",
+    "Rating": 2
+  },
+  {
+    "Category": "Nightclub",
+    "Rating": 2
+  },
+  {
+    "Category": "Other Nightlife",
+    "Rating": 2
+  },
+  {
+    "Category": "Strip Club",
+    "Rating": 1
+  },
+  {
+    "Category": "Athletics & Sports",
+    "Rating": 1
+  },
+  {
+    "Category": "Bathing Area",
+    "Rating": 1
+  },
+  {
+    "Category": "Bay",
+    "Rating": 1
+  },
+  {
+    "Category": "Beach",
+    "Rating": 1
+  },
+  {
+    "Category": "Bike Trail",
+    "Rating": 1
+  },
+  {
+    "Category": "Botanical Garden",
+    "Rating": 1
+  },
+  {
+    "Category": "Bridge",
+    "Rating": 1
+  },
+  {
+    "Category": "Campground",
+    "Rating": 1
+  },
+  {
+    "Category": "Canal Lock",
+    "Rating": 1
+  },
+  {
+    "Category": "Canal",
+    "Rating": 1
+  },
+  {
+    "Category": "Castle",
+    "Rating": 1
+  },
+  {
+    "Category": "Cave",
+    "Rating": 1
+  },
+  {
+    "Category": "Cemetery",
+    "Rating": 1
+  },
+  {
+    "Category": "Dive Spot",
+    "Rating": 1
+  },
+  {
+    "Category": "Dog Run",
+    "Rating": 1
+  },
+  {
+    "Category": "Farm",
+    "Rating": 1
+  },
+  {
+    "Category": "Field",
+    "Rating": 1
+  },
+  {
+    "Category": "Fishing Spot",
+    "Rating": 1
+  },
+  {
+    "Category": "Forest",
+    "Rating": 1
+  },
+  {
+    "Category": "Fountain",
+    "Rating": 1
+  },
+  {
+    "Category": "Garden",
+    "Rating": 1
+  },
+  {
+    "Category": "Gun Range",
+    "Rating": 1
+  },
+  {
+    "Category": "Harbor / Marina",
+    "Rating": 1
+  },
+  {
+    "Category": "Hill",
+    "Rating": 1
+  },
+  {
+    "Category": "Hot Spring",
+    "Rating": 1
+  },
+  {
+    "Category": "Indoor Play Area",
+    "Rating": 1
+  },
+  {
+    "Category": "Island",
+    "Rating": 1
+  },
+  {
+    "Category": "Lake",
+    "Rating": 1
+  },
+  {
+    "Category": "Lighthouse",
+    "Rating": 1
+  },
+  {
+    "Category": "Mountain Hut",
+    "Rating": 1
+  },
+  {
+    "Category": "Mountain",
+    "Rating": 1
+  },
+  {
+    "Category": "National Park",
+    "Rating": 1
+  },
+  {
+    "Category": "Nature Preserve",
+    "Rating": 1
+  },
+  {
+    "Category": "Other Great Outdoors",
+    "Rating": 1
+  },
+  {
+    "Category": "Palace",
+    "Rating": 1
+  },
+  {
+    "Category": "Park",
+    "Rating": 1
+  },
+  {
+    "Category": "Pedestrian Plaza",
+    "Rating": 1
+  },
+  {
+    "Category": "Playground",
+    "Rating": 1
+  },
+  {
+    "Category": "Plaza",
+    "Rating": 2
+  },
+  {
+    "Category": "Pool",
+    "Rating": 1
+  },
+  {
+    "Category": "Rafting",
+    "Rating": 1
+  },
+  {
+    "Category": "Recreation Center",
+    "Rating": 1
+  },
+  {
+    "Category": "Reservoir",
+    "Rating": 1
+  },
+  {
+    "Category": "River",
+    "Rating": 1
+  },
+  {
+    "Category": "Rock Climbing Spot",
+    "Rating": 1
+  },
+  {
+    "Category": "Roof Deck",
+    "Rating": 1
+  },
+  {
+    "Category": "Scenic Lookout",
+    "Rating": 1
+  },
+  {
+    "Category": "Sculpture Garden",
+    "Rating": 1
+  },
+  {
+    "Category": "Ski Area",
+    "Rating": 1
+  },
+  {
+    "Category": "Skydiving Drop Zone",
+    "Rating": 1
+  },
+  {
+    "Category": "Stables",
+    "Rating": 1
+  },
+  {
+    "Category": "State / Provincial Park",
+    "Rating": 1
+  },
+  {
+    "Category": "States & Municipalities",
+    "Rating": 1
+  },
+  {
+    "Category": "Summer Camp",
+    "Rating": 1
+  },
+  {
+    "Category": "Trail",
+    "Rating": 1
+  },
+  {
+    "Category": "Tree",
+    "Rating": 1
+  },
+  {
+    "Category": "Vineyard",
+    "Rating": 2
+  },
+  {
+    "Category": "Volcano",
+    "Rating": 1
+  },
+  {
+    "Category": "Waterfall",
+    "Rating": 1
+  },
+  {
+    "Category": "Waterfront",
+    "Rating": 1
+  },
+  {
+    "Category": "Well",
+    "Rating": 1
+  },
+  {
+    "Category": "Windmill",
+    "Rating": 1
+  },
+  {
+    "Category": "Animal Shelter",
+    "Rating": 2
+  },
+  {
+    "Category": "Art Studio",
+    "Rating": 2
+  },
+  {
+    "Category": "Auditorium",
+    "Rating": 2
+  },
+  {
+    "Category": "Ballroom",
+    "Rating": 2
+  },
+  {
+    "Category": "Building",
+    "Rating": 1
+  },
+  {
+    "Category": "Business Center",
+    "Rating": 1
+  },
+  {
+    "Category": "Club House",
+    "Rating": 2
+  },
+  {
+    "Category": "Community Center",
+    "Rating": 1
+  },
+  {
+    "Category": "Convention Center",
+    "Rating": 1
+  },
+  {
+    "Category": "Cultural Center",
+    "Rating": 2
+  },
+  {
+    "Category": "Distillery",
+    "Rating": 2
+  },
+  {
+    "Category": "Distribution Center",
+    "Rating": 1
+  },
+  {
+    "Category": "Event Space",
+    "Rating": 2
+  },
+  {
+    "Category": "Factory",
+    "Rating": 1
+  },
+  {
+    "Category": "Fair",
+    "Rating": 2
+  },
+  {
+    "Category": "Funeral Home",
+    "Rating": 1
+  },
+  {
+    "Category": "Government Building",
+    "Rating": 1
+  },
+  {
+    "Category": "Industrial Estate",
+    "Rating": 1
+  },
+  {
+    "Category": "Laboratory",
+    "Rating": 1
+  },
+  {
+    "Category": "Library",
+    "Rating": 2
+  },
+  {
+    "Category": "Medical Center",
+    "Rating": 1
+  },
+  {
+    "Category": "Military Base",
+    "Rating": 1
+  },
+  {
+    "Category": "Non-Profit",
+    "Rating": 2
+  },
+  {
+    "Category": "Observatory",
+    "Rating": 1
+  },
+  {
+    "Category": "Office",
+    "Rating": 1
+  },
+  {
+    "Category": "Parking",
+    "Rating": 1
+  },
+  {
+    "Category": "Post Office",
+    "Rating": 1
+  },
+  {
+    "Category": "Power Plant",
+    "Rating": 1
+  },
+  {
+    "Category": "Prison",
+    "Rating": 1
+  },
+  {
+    "Category": "Radio Station",
+    "Rating": 1
+  },
+  {
+    "Category": "Recruiting Agency",
+    "Rating": 1
+  },
+  {
+    "Category": "Research Station",
+    "Rating": 1
+  },
+  {
+    "Category": "School",
+    "Rating": 1
+  },
+  {
+    "Category": "Social Club",
+    "Rating": 2
+  },
+  {
+    "Category": "Spiritual Center",
+    "Rating": 2
+  },
+  {
+    "Category": "TV Station",
+    "Rating": 1
+  },
+  {
+    "Category": "Voting Booth",
+    "Rating": 1
+  },
+  {
+    "Category": "Warehouse",
+    "Rating": 2
+  },
+  {
+    "Category": "Waste Facility",
+    "Rating": 1
+  },
+  {
+    "Category": "Wedding Hall",
+    "Rating": 2
+  },
+  {
+    "Category": "Winery",
+    "Rating": 2
+  },
+  {
+    "Category": "Assisted Living",
+    "Rating": 1
+  },
+  {
+    "Category": "Home (private)",
+    "Rating": 2
+  },
+  {
+    "Category": "Housing Development",
+    "Rating": 1
+  },
+  {
+    "Category": "Residential Building (Apartment / Condo)",
+    "Rating": 1
+  },
+  {
+    "Category": "Trailer Park",
+    "Rating": 1
+  },
+  {
+    "Category": "ATM",
+    "Rating": 1
+  },
+  {
+    "Category": "Adult Boutique",
+    "Rating": 2
+  },
+  {
+    "Category": "Antique Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Arts & Crafts Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Astrologer",
+    "Rating": 2
+  },
+  {
+    "Category": "Auto Dealership",
+    "Rating": 1
+  },
+  {
+    "Category": "Auto Garage",
+    "Rating": 1
+  },
+  {
+    "Category": "Auto Workshop",
+    "Rating": 1
+  },
+  {
+    "Category": "Automotive Shop",
+    "Rating": 1
+  },
+  {
+    "Category": "Baby Store",
+    "Rating": 1
+  },
+  {
+    "Category": "Bank",
+    "Rating": 1
+  },
+  {
+    "Category": "Bath House",
+    "Rating": 2
+  },
+  {
+    "Category": "Batik Shop",
+    "Rating": 1
+  },
+  {
+    "Category": "Betting Shop",
+    "Rating": 1
+  },
+  {
+    "Category": "Big Box Store",
+    "Rating": 1
+  },
+  {
+    "Category": "Bike Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Board Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Bookstore",
+    "Rating": 2
+  },
+  {
+    "Category": "Bridal Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Business Service",
+    "Rating": 1
+  },
+  {
+    "Category": "Camera Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Candy Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Car Wash",
+    "Rating": 1
+  },
+  {
+    "Category": "Carpet Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Check Cashing Service",
+    "Rating": 1
+  },
+  {
+    "Category": "Child Care Service",
+    "Rating": 2
+  },
+  {
+    "Category": "Chocolate Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Clothing Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Comic Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Construction & Landscaping",
+    "Rating": 1
+  },
+  {
+    "Category": "Convenience Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Cosmetics Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Costume Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Credit Union",
+    "Rating": 1
+  },
+  {
+    "Category": "Currency Exchange",
+    "Rating": 1
+  },
+  {
+    "Category": "Department Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Design Studio",
+    "Rating": 2
+  },
+  {
+    "Category": "Discount Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Dive Shop",
+    "Rating": 1
+  },
+  {
+    "Category": "Drugstore",
+    "Rating": 2
+  },
+  {
+    "Category": "Dry Cleaner",
+    "Rating": 1
+  },
+  {
+    "Category": "EV Charging Station",
+    "Rating": 1
+  },
+  {
+    "Category": "Electronics Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Entertainment Service",
+    "Rating": 2
+  },
+  {
+    "Category": "Event Service",
+    "Rating": 2
+  },
+  {
+    "Category": "Fabric Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Film Studio",
+    "Rating": 2
+  },
+  {
+    "Category": "Financial or Legal Service",
+    "Rating": 1
+  },
+  {
+    "Category": "Fireworks Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Fishing Store",
+    "Rating": 1
+  },
+  {
+    "Category": "Flea Market",
+    "Rating": 2
+  },
+  {
+    "Category": "Floating Market",
+    "Rating": 2
+  },
+  {
+    "Category": "Flower Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Food & Drink Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Frame Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Fruit & Vegetable Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Furniture / Home Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Gaming Cafe",
+    "Rating": 2
+  },
+  {
+    "Category": "Garden Center",
+    "Rating": 2
+  },
+  {
+    "Category": "Gas Station",
+    "Rating": 1
+  },
+  {
+    "Category": "Gift Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Gun Shop",
+    "Rating": 1
+  },
+  {
+    "Category": "Hardware Store",
+    "Rating": 1
+  },
+  {
+    "Category": "Health & Beauty Service",
+    "Rating": 2
+  },
+  {
+    "Category": "Herbs & Spices Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Hobby Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Home Service",
+    "Rating": 2
+  },
+  {
+    "Category": "Hunting Supply",
+    "Rating": 1
+  },
+  {
+    "Category": "IT Services",
+    "Rating": 1
+  },
+  {
+    "Category": "Insurance Office",
+    "Rating": 1
+  },
+  {
+    "Category": "Internet Cafe",
+    "Rating": 2
+  },
+  {
+    "Category": "Jewelry Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Kitchen Supply Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Knitting Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Laundromat",
+    "Rating": 1
+  },
+  {
+    "Category": "Laundry Service",
+    "Rating": 1
+  },
+  {
+    "Category": "Lawyer",
+    "Rating": 1
+  },
+  {
+    "Category": "Leather Goods Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Locksmith",
+    "Rating": 1
+  },
+  {
+    "Category": "Lottery Retailer",
+    "Rating": 1
+  },
+  {
+    "Category": "Luggage Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Marijuana Dispensary",
+    "Rating": 2
+  },
+  {
+    "Category": "Market",
+    "Rating": 2
+  },
+  {
+    "Category": "Massage Studio",
+    "Rating": 2
+  },
+  {
+    "Category": "Mattress Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Medical Supply Store",
+    "Rating": 1
+  },
+  {
+    "Category": "Miscellaneous Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Mobile Phone Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Mobility Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Motorcycle Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Motorsports Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Music Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Nail Salon",
+    "Rating": 2
+  },
+  {
+    "Category": "Newsstand",
+    "Rating": 2
+  },
+  {
+    "Category": "Notary",
+    "Rating": 1
+  },
+  {
+    "Category": "Optical Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Other Repair Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Outdoor Supply Store",
+    "Rating": 1
+  },
+  {
+    "Category": "Outlet Mall",
+    "Rating": 2
+  },
+  {
+    "Category": "Outlet Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Paper / Office Supplies Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Pawn Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Perfume Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Pet Service",
+    "Rating": 2
+  },
+  {
+    "Category": "Pet Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Pharmacy",
+    "Rating": 2
+  },
+  {
+    "Category": "Photography Lab",
+    "Rating": 2
+  },
+  {
+    "Category": "Photography Studio",
+    "Rating": 2
+  },
+  {
+    "Category": "Piercing Parlor",
+    "Rating": 2
+  },
+  {
+    "Category": "Pop-Up Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Print Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Public Bathroom",
+    "Rating": 1
+  },
+  {
+    "Category": "Real Estate Office",
+    "Rating": 2
+  },
+  {
+    "Category": "Record Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Recording Studio",
+    "Rating": 2
+  },
+  {
+    "Category": "Recycling Facility",
+    "Rating": 1
+  },
+  {
+    "Category": "Rental Service",
+    "Rating": 2
+  },
+  {
+    "Category": "Salon / Barbershop",
+    "Rating": 2
+  },
+  {
+    "Category": "Sauna / Steam Room",
+    "Rating": 2
+  },
+  {
+    "Category": "Shipping Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Shoe Repair",
+    "Rating": 2
+  },
+  {
+    "Category": "Shopping Mall",
+    "Rating": 2
+  },
+  {
+    "Category": "Shopping Plaza",
+    "Rating": 2
+  },
+  {
+    "Category": "Skate Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Ski Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Smoke Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Smoothie Shop",
+    "Rating": 3
+  },
+  {
+    "Category": "Souvenir Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Spa",
+    "Rating": 2
+  },
+  {
+    "Category": "Sporting Goods Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Stationery Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Storage Facility",
+    "Rating": 1
+  },
+  {
+    "Category": "Supplement Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Tailor Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Tanning Salon",
+    "Rating": 2
+  },
+  {
+    "Category": "Tattoo Parlor",
+    "Rating": 2
+  },
+  {
+    "Category": "Thrift / Vintage Store",
+    "Rating": 3
+  },
+  {
+    "Category": "Toy / Game Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Travel Agency",
+    "Rating": 2
+  },
+  {
+    "Category": "Used Bookstore",
+    "Rating": 2
+  },
+  {
+    "Category": "Vape Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Video Game Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Video Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Warehouse Store",
+    "Rating": 2
+  },
+  {
+    "Category": "Watch Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "Airport",
+    "Rating": 1
+  },
+  {
+    "Category": "Baggage Locker",
+    "Rating": 1
+  },
+  {
+    "Category": "Bike Rental / Bike Share",
+    "Rating": 2
+  },
+  {
+    "Category": "Boat Rental",
+    "Rating": 1
+  },
+  {
+    "Category": "Boat or Ferry",
+    "Rating": 1
+  },
+  {
+    "Category": "Border Crossing",
+    "Rating": 1
+  },
+  {
+    "Category": "Bus Station",
+    "Rating": 1
+  },
+  {
+    "Category": "Bus Stop",
+    "Rating": 1
+  },
+  {
+    "Category": "Cable Car",
+    "Rating": 1
+  },
+  {
+    "Category": "Cruise",
+    "Rating": 1
+  },
+  {
+    "Category": "Duty-free Shop",
+    "Rating": 2
+  },
+  {
+    "Category": "General Travel",
+    "Rating": 2
+  },
+  {
+    "Category": "Heliport",
+    "Rating": 1
+  },
+  {
+    "Category": "Hotel",
+    "Rating": 2
+  },
+  {
+    "Category": "Intersection",
+    "Rating": 1
+  },
+  {
+    "Category": "Light Rail Station",
+    "Rating": 1
+  },
+  {
+    "Category": "Metro Station",
+    "Rating": 1
+  },
+  {
+    "Category": "Moving Target",
+    "Rating": 1
+  },
+  {
+    "Category": "Pier",
+    "Rating": 1
+  },
+  {
+    "Category": "Port",
+    "Rating": 1
+  },
+  {
+    "Category": "RV Park",
+    "Rating": 1
+  },
+  {
+    "Category": "Rental Car Location",
+    "Rating": 1
+  },
+  {
+    "Category": "Rest Area",
+    "Rating": 1
+  },
+  {
+    "Category": "Road",
+    "Rating": 1
+  },
+  {
+    "Category": "Taxi Stand",
+    "Rating": 1
+  },
+  {
+    "Category": "Taxi",
+    "Rating": 1
+  },
+  {
+    "Category": "Toll Booth",
+    "Rating": 1
+  },
+  {
+    "Category": "Toll Plaza",
+    "Rating": 1
+  },
+  {
+    "Category": "Tourist Information Center",
+    "Rating": 2
+  },
+  {
+    "Category": "Train Station",
+    "Rating": 1
+  },
+  {
+    "Category": "Tram Station",
+    "Rating": 1
+  },
+  {
+    "Category": "Transportation Service",
+    "Rating": 1
+  },
+  {
+    "Category": "Travel Lounge",
+    "Rating": 1
+  },
+  {
+    "Category": "Tunnel",
+    "Rating": 1
+  }
+]
