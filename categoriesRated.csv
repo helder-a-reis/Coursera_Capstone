@@ -1,0 +1,454 @@
+Category,Rating
+Art Gallery,2
+Bowling Alley,1
+Casino,1
+Circus,1
+Comedy Club,2
+Concert Hall,2
+Country Dance Club,1
+Disc Golf,1
+Exhibit,2
+General Entertainment,2
+Go Kart Track,1
+Historic Site,1
+Karaoke Box,1
+Laser Tag,1
+Memorial Site,1
+Mini Golf,1
+Movie Theater,2
+Museum,2
+Music Venue,2
+Pachinko Parlor,1
+Performing Arts Venue,2
+Pool Hall,1
+Public Art,2
+Racecourse,1
+Racetrack,1
+Roller Rink,1
+Salsa Club,1
+Samba School,1
+Stadium,1
+Theme Park,2
+Tour Provider,2
+Water Park,1
+Zoo,1
+College Academic Building,1
+College Administrative Building,1
+College Auditorium,1
+College Bookstore,1
+College Cafeteria,1
+College Classroom,1
+College Gym,1
+College Lab,1
+College Library,1
+College Quad,1
+College Rec Center,1
+College Residence Hall,1
+College Stadium,1
+College Theater,1
+Community College,1
+Fraternity House,1
+General College & University,1
+Law School,1
+Medical School,1
+Sorority House,1
+Student Center,2
+Trade School,2
+University,2
+Christmas Market,2
+Conference,2
+Convention,2
+Festival,2
+Line / Queue,2
+Music Festival,2
+Other Event,2
+Parade,1
+Sporting Event,1
+Stoop Sale,1
+Street Fair,2
+Trade Fair,1
+Afghan Restaurant,2
+African Restaurant,2
+American Restaurant,2
+Asian Restaurant,2
+Australian Restaurant,2
+Austrian Restaurant,2
+BBQ Joint,1
+Bagel Shop,3
+Bakery,2
+Belgian Restaurant,2
+Bistro,3
+Breakfast Spot,3
+Bubble Tea Shop,3
+Buffet,2
+Burger Joint,2
+Cafeteria,2
+Café,2
+Cajun / Creole Restaurant,1
+Caribbean Restaurant,1
+Caucasian Restaurant,2
+Coffee Shop,2
+Comfort Food Restaurant,2
+Creperie,3
+Czech Restaurant,2
+Deli / Bodega,2
+Dessert Shop,2
+Diner,2
+Donut Shop,2
+Dumpling Restaurant,2
+Dutch Restaurant,2
+Eastern European Restaurant,2
+English Restaurant,2
+Falafel Restaurant,2
+Fast Food Restaurant,1
+Fish & Chips Shop,1
+Fondue Restaurant,1
+Food Court,1
+Food Stand,2
+Food Truck,3
+French Restaurant,2
+Fried Chicken Joint,1
+Friterie,1
+Gastropub,3
+German Restaurant,1
+Gluten-free Restaurant,3
+Greek Restaurant,2
+Halal Restaurant,2
+Hawaiian Restaurant,2
+Hot Dog Joint,2
+Hungarian Restaurant,2
+Indian Restaurant,2
+Irish Pub,1
+Italian Restaurant,2
+Jewish Restaurant,2
+Juice Bar,3
+Kebab Restaurant,2
+Latin American Restaurant,2
+Mac & Cheese Joint,1
+Mediterranean Restaurant,2
+Mexican Restaurant,2
+Middle Eastern Restaurant,2
+Modern European Restaurant,3
+Molecular Gastronomy Restaurant,3
+Pakistani Restaurant,2
+Pet Café,3
+Pizza Place,2
+Polish Restaurant,2
+Portuguese Restaurant,2
+Poutine Place,2
+Restaurant,2
+Russian Restaurant,2
+Salad Place,3
+Sandwich Place,2
+Scandinavian Restaurant,2
+Scottish Restaurant,2
+Seafood Restaurant,2
+Slovak Restaurant,2
+Snack Place,2
+Soup Place,2
+Southern / Soul Food Restaurant,1
+Spanish Restaurant,2
+Sri Lankan Restaurant,2
+Steakhouse,2
+Swiss Restaurant,2
+Tea Room,2
+Theme Restaurant,2
+Truck Stop,1
+Turkish Restaurant,2
+Ukrainian Restaurant,2
+Vegetarian / Vegan Restaurant,3
+Wings Joint,1
+Bar,2
+Brewery,2
+Lounge,2
+Night Market,2
+Nightclub,2
+Other Nightlife,2
+Strip Club,1
+Athletics & Sports,1
+Bathing Area,1
+Bay,1
+Beach,1
+Bike Trail,1
+Botanical Garden,1
+Bridge,1
+Campground,1
+Canal Lock,1
+Canal,1
+Castle,1
+Cave,1
+Cemetery,1
+Dive Spot,1
+Dog Run,1
+Farm,1
+Field,1
+Fishing Spot,1
+Forest,1
+Fountain,1
+Garden,1
+Gun Range,1
+Harbor / Marina,1
+Hill,1
+Hot Spring,1
+Indoor Play Area,1
+Island,1
+Lake,1
+Lighthouse,1
+Mountain Hut,1
+Mountain,1
+National Park,1
+Nature Preserve,1
+Other Great Outdoors,1
+Palace,1
+Park,1
+Pedestrian Plaza,1
+Playground,1
+Plaza,2
+Pool,1
+Rafting,1
+Recreation Center,1
+Reservoir,1
+River,1
+Rock Climbing Spot,1
+Roof Deck,1
+Scenic Lookout,1
+Sculpture Garden,1
+Ski Area,1
+Skydiving Drop Zone,1
+Stables,1
+State / Provincial Park,1
+States & Municipalities,1
+Summer Camp,1
+Trail,1
+Tree,1
+Vineyard,2
+Volcano,1
+Waterfall,1
+Waterfront,1
+Well,1
+Windmill,1
+Animal Shelter,2
+Art Studio,2
+Auditorium,2
+Ballroom,2
+Building,1
+Business Center,1
+Club House,2
+Community Center,1
+Convention Center,1
+Cultural Center,2
+Distillery,2
+Distribution Center,1
+Event Space,2
+Factory,1
+Fair,2
+Funeral Home,1
+Government Building,1
+Industrial Estate,1
+Laboratory,1
+Library,2
+Medical Center,1
+Military Base,1
+Non-Profit,2
+Observatory,1
+Office,1
+Parking,1
+Post Office,1
+Power Plant,1
+Prison,1
+Radio Station,1
+Recruiting Agency,1
+Research Station,1
+School,1
+Social Club,2
+Spiritual Center,2
+TV Station,1
+Voting Booth,1
+Warehouse,2
+Waste Facility,1
+Wedding Hall,2
+Winery,2
+Assisted Living,1
+Home (private),2
+Housing Development,1
+Residential Building (Apartment / Condo),1
+Trailer Park,1
+ATM,1
+Adult Boutique,2
+Antique Shop,2
+Arts & Crafts Store,2
+Astrologer,2
+Auto Dealership,1
+Auto Garage,1
+Auto Workshop,1
+Automotive Shop,1
+Baby Store,1
+Bank,1
+Bath House,2
+Batik Shop,1
+Betting Shop,1
+Big Box Store,1
+Bike Shop,2
+Board Shop,2
+Bookstore,2
+Bridal Shop,2
+Business Service,1
+Camera Store,2
+Candy Store,2
+Car Wash,1
+Carpet Store,2
+Check Cashing Service,1
+Child Care Service,2
+Chocolate Shop,2
+Clothing Store,2
+Comic Shop,2
+Construction & Landscaping,1
+Convenience Store,2
+Cosmetics Shop,2
+Costume Shop,2
+Credit Union,1
+Currency Exchange,1
+Department Store,2
+Design Studio,2
+Discount Store,2
+Dive Shop,1
+Drugstore,2
+Dry Cleaner,1
+EV Charging Station,1
+Electronics Store,2
+Entertainment Service,2
+Event Service,2
+Fabric Shop,2
+Film Studio,2
+Financial or Legal Service,1
+Fireworks Store,2
+Fishing Store,1
+Flea Market,2
+Floating Market,2
+Flower Shop,2
+Food & Drink Shop,2
+Frame Store,2
+Fruit & Vegetable Store,2
+Furniture / Home Store,2
+Gaming Cafe,2
+Garden Center,2
+Gas Station,1
+Gift Shop,2
+Gun Shop,1
+Hardware Store,1
+Health & Beauty Service,2
+Herbs & Spices Store,2
+Hobby Shop,2
+Home Service,2
+Hunting Supply,1
+IT Services,1
+Insurance Office,1
+Internet Cafe,2
+Jewelry Store,2
+Kitchen Supply Store,2
+Knitting Store,2
+Laundromat,1
+Laundry Service,1
+Lawyer,1
+Leather Goods Store,2
+Locksmith,1
+Lottery Retailer,1
+Luggage Store,2
+Marijuana Dispensary,2
+Market,2
+Massage Studio,2
+Mattress Store,2
+Medical Supply Store,1
+Miscellaneous Shop,2
+Mobile Phone Shop,2
+Mobility Store,2
+Motorcycle Shop,2
+Motorsports Shop,2
+Music Store,2
+Nail Salon,2
+Newsstand,2
+Notary,1
+Optical Shop,2
+Other Repair Shop,2
+Outdoor Supply Store,1
+Outlet Mall,2
+Outlet Store,2
+Paper / Office Supplies Store,2
+Pawn Shop,2
+Perfume Shop,2
+Pet Service,2
+Pet Store,2
+Pharmacy,2
+Photography Lab,2
+Photography Studio,2
+Piercing Parlor,2
+Pop-Up Shop,2
+Print Shop,2
+Public Bathroom,1
+Real Estate Office,2
+Record Shop,2
+Recording Studio,2
+Recycling Facility,1
+Rental Service,2
+Salon / Barbershop,2
+Sauna / Steam Room,2
+Shipping Store,2
+Shoe Repair,2
+Shopping Mall,2
+Shopping Plaza,2
+Skate Shop,2
+Ski Shop,2
+Smoke Shop,2
+Smoothie Shop,3
+Souvenir Shop,2
+Spa,2
+Sporting Goods Shop,2
+Stationery Store,2
+Storage Facility,1
+Supplement Shop,2
+Tailor Shop,2
+Tanning Salon,2
+Tattoo Parlor,2
+Thrift / Vintage Store,3
+Toy / Game Store,2
+Travel Agency,2
+Used Bookstore,2
+Vape Store,2
+Video Game Store,2
+Video Store,2
+Warehouse Store,2
+Watch Shop,2
+Airport,1
+Baggage Locker,1
+Bike Rental / Bike Share,2
+Boat Rental,1
+Boat or Ferry,1
+Border Crossing,1
+Bus Station,1
+Bus Stop,1
+Cable Car,1
+Cruise,1
+Duty-free Shop,2
+General Travel,2
+Heliport,1
+Hotel,2
+Intersection,1
+Light Rail Station,1
+Metro Station,1
+Moving Target,1
+Pier,1
+Port,1
+RV Park,1
+Rental Car Location,1
+Rest Area,1
+Road,1
+Taxi Stand,1
+Taxi,1
+Toll Booth,1
+Toll Plaza,1
+Tourist Information Center,2
+Train Station,1
+Tram Station,1
+Transportation Service,1
+Travel Lounge,1
+Tunnel,1
